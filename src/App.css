@@ -1,0 +1,55 @@
+body{
+  background-color: rgb(174, 190, 190);
+  text-align: center;
+  font-family:   'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-family: RomanT;
+  font-size: 30px;
+  align-items: center;
+}
+.font-face-gm {
+  font-family: "RomanT";
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+h1{
+  text-align: center;
+  
+  width:100%;
+}
+#versetext{
+  margin:15%;
+}
+ .right-arrow, .left-arrow{
+  margin:10px;
+
+ }
+
+section{
+  color:white;
+  text-shadow: #282c34 2px 2px;
+height: 100%;
+width: 100%;
+}
+
+button{
+  font-family:
+  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+  border-radius: 15px;
+  padding:10px;
+  margin-top: 50px;
+}

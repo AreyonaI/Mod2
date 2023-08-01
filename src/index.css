@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: "RomanR";
+  src: local("RomanRegular"),
+   url("./Roman-Regular.ttf") format("truetype");
+ }
+ @font-face {
+  font-family: "RomanT";
+  src: local("RomanThin"),
+   url("./Roman-Thin.ttf") format("truetype");
+ }
+
